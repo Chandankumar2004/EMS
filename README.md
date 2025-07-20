@@ -8,30 +8,28 @@ A full-featured **Employee Management System** built using Java Swing for UI and
 
 > Below are step-by-step images located in the `projectEMSImg/` folder:
 
-### 1. 🏠 Home Screen
-![Home Screen](projectEMSImg/home.png)
+### 1. 🏠 Home Screen  
+![Home Screen]()
 
-### 2. ➕ Onboard Employee
-![Onboard Employee](projectEMSImg/onboard.png)
+### 2. ➕ Onboard Employee  
+![Onboard Employee]()
 
-### 3. 📋 View All Employees
-![View All](projectEMSImg/displayall.png)
+### 3. 📋 View All Employees  
+![View All]()
 
-### 4. 🔍 Search Employee
-![Search](projectEMSImg/singleemployee.png)
+### 4. 🔍 Search Employee  
+![Search]()
 
-### 5. ✏️ Update Employee
+### 5. ✏️ Update Employee  
 #### a. Enter ID to Update  
-![Update Step 1](projectEMSImg/updateemployee_step1.png)
-
+![Update Step 1]()  
 #### b. Edit & Save Details  
-![Update Step 2](projectEMSImg/updateemployee_step2.png)
+![Update Step 2]()
 
-### 6. ❌ De-board Employee
-![DeBoard](projectEMSImg/deboard.png)
+### 6. ❌ De-board Employee  
+![DeBoard]()
 
 ---
-
 ## 🚀 Features
 
 - ➕ Add New Employee  
