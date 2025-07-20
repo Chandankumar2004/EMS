@@ -9,25 +9,25 @@ A full-featured **Employee Management System** built using Java Swing for UI and
 > Below are step-by-step images located in the `projectEMSImg/` folder:
 
 ### 1. 🏠 Home Screen  
-![Home Screen]()
+![Home Screen](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/home.png)
 
 ### 2. ➕ Onboard Employee  
-![Onboard Employee]()
+![Onboard Employee](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/onboard%20new.png)
 
 ### 3. 📋 View All Employees  
-![View All]()
+![View All](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/view%20All.png)
 
 ### 4. 🔍 Search Employee  
-![Search]()
+![Search](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/search.png)
 
 ### 5. ✏️ Update Employee  
 #### a. Enter ID to Update  
-![Update Step 1]()  
+![Update Step 1](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/enterIdToUpdate.png)  
 #### b. Edit & Save Details  
-![Update Step 2]()
+![Update Step 2](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/editAndSaveDetails.png)
 
 ### 6. ❌ De-board Employee  
-![DeBoard]()
+![DeBoard](https://github.com/Chandankumar2004/EMS/blob/b583813093e156f52889124f6021a5d0d49458d5/delete.png)
 
 ---
 ## 🚀 Features
