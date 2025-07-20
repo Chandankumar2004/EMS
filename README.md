@@ -1,6 +1,6 @@
 
 <h1 align="center">🧑‍💼 Employee Management System</h1>
-<h3 align="center"><code>(Java + Swing + MySQL)</code></h3>
+<h3 align="center"><code>(Java + Swing + MySQL.)</code></h3>
 
 <p align="center">
   A fully functional <strong>Employee Management System</strong> built using Java Swing for GUI and MySQL for database operations.  
